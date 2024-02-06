@@ -3,6 +3,7 @@ disable=C0114, #missing-module-docstring
         C0115, #Missing-class-docstring
         C0116, #missing-function-docstring
         W0703, #catching too general exception Exception
+        W0311, #bad-indentation
 # Analyse import fallback blocks. This can be used to support both Python 2 and
 # 3 compatible code, which means that the block might have code that exists
 # only in one or another interpreter, leading to false positives when analysed.
