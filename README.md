@@ -1,4 +1,4 @@
-# Etiquetadora em python 🐍
+# Etiquetadora em python 
 Crie um `código de barra` a partir de qualquer input
 
 ## Tecnologias e frameworks
